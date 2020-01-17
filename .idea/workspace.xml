@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a55ac082-4371-42b5-a6e2-9e82f718a13b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WN9SnS4wFjFZiSXrqwgngm9oYX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmitriy.shchankin\PycharmProjects\gameList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mainGame">
+    <configuration name="help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gameList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/help.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gameList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mainGame" />
+        <item itemvalue="Python.help" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a55ac082-4371-42b5-a6e2-9e82f718a13b" name="Default Changelist" comment="" />
+      <created>1578979188306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578979188306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="749" y="411" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579081642067">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="749" y="411" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579081642067" />
+    <state width="1082" height="466" key="DebuggerActiveHint" timestamp="1578996380696">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1082" height="466" key="DebuggerActiveHint/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1578996380696" />
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1578985042148">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="295" key="FileChooserDialogImpl/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1578985042148" />
+    <state width="1837" height="581" key="GridCell.Tab.0.bottom" timestamp="1579236750424">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="581" key="GridCell.Tab.0.bottom/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579236750424" />
+    <state width="1837" height="581" key="GridCell.Tab.0.center" timestamp="1579236750424">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="581" key="GridCell.Tab.0.center/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579236750424" />
+    <state width="1837" height="581" key="GridCell.Tab.0.left" timestamp="1579236750423">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="581" key="GridCell.Tab.0.left/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579236750423" />
+    <state width="1837" height="581" key="GridCell.Tab.0.right" timestamp="1579236750424">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="581" key="GridCell.Tab.0.right/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579236750424" />
+    <state width="1837" height="364" key="GridCell.Tab.1.bottom" timestamp="1579167697384">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="364" key="GridCell.Tab.1.bottom/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579167697384" />
+    <state width="1837" height="364" key="GridCell.Tab.1.center" timestamp="1579167697384">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="364" key="GridCell.Tab.1.center/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579167697384" />
+    <state width="1837" height="364" key="GridCell.Tab.1.left" timestamp="1579167697384">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="364" key="GridCell.Tab.1.left/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579167697384" />
+    <state width="1837" height="364" key="GridCell.Tab.1.right" timestamp="1579167697384">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="364" key="GridCell.Tab.1.right/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579167697384" />
+    <state x="492" y="183" key="SettingsEditor" timestamp="1579082845951">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="492" y="183" key="SettingsEditor/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579082845951" />
+    <state x="692" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1579149067964">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="692" y="364" key="com.intellij.ide.util.TipDialog/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579149067964" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1579082880535">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/1982.53.1538.900/-1280.55.1280.1024/62.0.1858.1080@62.0.1858.1080" timestamp="1579082880535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
