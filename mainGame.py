@@ -25,8 +25,6 @@ class Game:
         return (f'{self.name}, {self.genres}, {self.release}, '
                 f'{self.status}, {self.completed}, {self.comment}, {self.rating}')
 
-    def __getitem__(self, item):
-        return self.__getitem__(item)
 
 
 def test_game_Celeste():
@@ -179,14 +177,16 @@ def add_game_to_dict(newGame: Game, gameDict: dict()):
 def change_game(nameOfGame: str, gameDict: dict()):
     if (nameOfGame not in gameDict.keys()):
         return print(f'Sorry {nameOfGame} not found in list')
+    changeGame = Game()
     changeGame = gameDict[nameOfGame]
     print('What you want change? \n' + ', '.join(_fieldGame()))
     changeField = {i for i in input().split(' ')}.intersection(_fieldGame())
     print(f'Field {", ".join(changeField)} will modifited')
-    for i in changeField:
-        pass
+    for field in changeField:
+        print(field)
+        changeGame.__setattr__(field, 'yes')
+        print(changeGame)
     return
-
 
 def add_gamedict_to_file(myGameList: dict, fileName='myGameList.json'):
     """Add dict to file .json
